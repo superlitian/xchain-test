@@ -1,0 +1,6 @@
+# the service config
+# the service will run how long (min)
+times: 1200
+
+# 并发数
+routines: 3
